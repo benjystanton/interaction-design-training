@@ -1,4 +1,4 @@
-# Interaction design
+# Interaction design training
 
 ## What do interaction designers do?
 - Design mock-ups in Sketch
@@ -43,7 +43,7 @@ Design a few ideas quickly, these could be sketched on paper or created in Sketc
 Sometimes a paper prototype is enough to collect research. Sometimes a clickable a html prototype is required.  
 
 6. **Usability testing and research**  
-Meet with the user researchers and discuss the prototype and how it functions. If possible, go along and observe the research session. 
+Meet with the user researchers and discuss the prototype and how it functions. If possible, go along and observe the research session.
 
 7. **Repeat**  
 Collect notes from the research session. Then repeat steps 1 to 7.
