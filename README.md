@@ -67,7 +67,9 @@ Collect notes from the research session. Then repeat steps 1 to 7.
 ## Prototyping in code
 It is difficult to set up the prototype environment first time (unless you are familiar with installing things via the command line). Get some help to setup everything. Once that’s done, you only need a basic knowledge of HTML and CSS (Sass) to get started.
 
-## Required tools
+## Tools
+
+### Required tools
 - Sharpies and post-its
 - Macbook Pro
 - [GitHub account](https://github.com/) for version control and sharing code
@@ -75,7 +77,7 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [Atom](https://atom.io/) for writing code (other text editors are available)
 - [Google Drive](https://www.google.com/drive/)
 
-## Optional tools
+### Optional tools
 - [Sketch](https://www.sketchapp.com/) for designing mock-ups
 - [Microsoft Office](https://www.office.com/)
 - [Trello](https://trello.com/)
@@ -83,3 +85,8 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [iA Writer](https://ia.net/writer) the best note taking app out there (in my opinion)
 - [GitHub desktop](https://desktop.github.com/)
 - [JIRA](https://www.atlassian.com/software/jira) 😫
+
+## Blogs to subscribe to
+- [GDS accessibility blog](https://accessibility.blog.gov.uk/)
+- [GDS design notes blog](https://designnotes.blog.gov.uk/)
+- [GDS user research blog](https://userresearch.blog.gov.uk/)
