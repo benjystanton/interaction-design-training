@@ -1,10 +1,24 @@
 # Interaction design training
 
+Interaction designers (sometimes called user experience designers) are an essential part of software teams that want to meet user needs.
+
+They work closely with the entire project team, especially service managers, subject matter experts, user researchers and software developers.
+
 ## What do interaction designers do?
 - Design mock-ups in Sketch
 - Create prototypes in code
-- Decide on the flow of events / user journeys
-- Work closely with project team, especially user researchers and software developers
+- Decide on high-level user journeys and micro-interactions
+
+### Other useful skills
+- Graphic design
+- Content design
+- Accessibility
+- Front-end development
+- User research
+- Information architecture
+- Responsive web design
+
+[More information on useful skills for user experience designers](http://www.benjystanton.co.uk/blog/user-experience-ux-designer-skills/)
 
 ## GDS (Government Digital Service) design resources
 - [GDS Design principles](https://www.gov.uk/design-principles)
