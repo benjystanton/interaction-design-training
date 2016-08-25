@@ -5,6 +5,7 @@ Interaction designers (sometimes called user experience designers) are an essent
 They work closely with the entire project team, especially service managers, subject matter experts, user researchers and software developers.
 
 ## What do interaction designers do?
+- Create design ideas based on user research
 - Design mock-ups in Sketch
 - Create prototypes in code
 - Decide on high-level user journeys and micro-interactions
@@ -35,7 +36,7 @@ Much of your time will be spent sitting at the computer, designing things. Donâ€
 - **Meetings**  
 There are lots of meetings. Attend as many as you can, this is where decisions are made. Although time consuming and often boring, the strength of agile is the shared understanding between the team. The more you hear, the greater the understanding of the project you will have.
 - **Workshops**  
-Workshops are like meetings, but you actually get stuff done. Bring post-its and use whiteboards to analyse research and come up with design concepts.
+Workshops are like meetings, but you actually get stuff done. Bring post-its and use whiteboards to analyse research and come up with design ideas.
 - **Daily stand-up**  
 What did you do yesterday? What are you doing today?
 - **Show & Tell**  
