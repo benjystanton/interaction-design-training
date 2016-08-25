@@ -80,7 +80,7 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [Atom](https://atom.io/) for writing code (other text editors are available)
 - [Google account](https://accounts.google.com/signup) for sharing docs, calendars and more
 
-### Optional tools
+### Other tools
 - [Sketch](https://www.sketchapp.com/) for designing mock-ups
 - [Microsoft Office](https://www.office.com/)
 - [Trello](https://trello.com/)
@@ -90,6 +90,6 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [JIRA](https://www.atlassian.com/software/jira) 😫
 
 ## Blogs to subscribe to
-- [GDS accessibility blog](https://accessibility.blog.gov.uk/)
-- [GDS design notes blog](https://designnotes.blog.gov.uk/)
-- [GDS user research blog](https://userresearch.blog.gov.uk/)
+- [GDS accessibility](https://accessibility.blog.gov.uk/)
+- [GDS design notes](https://designnotes.blog.gov.uk/)
+- [GDS user research](https://userresearch.blog.gov.uk/)
