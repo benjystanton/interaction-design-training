@@ -2,7 +2,7 @@
 
 Interaction designers (sometimes called user experience designers) are an essential part of software teams that want to meet user needs.
 
-They work closely with the entire project team, especially service managers, subject matter experts, user researchers and software developers.
+They work closely with the entire project team, especially service managers, product owners, subject matter experts, user researchers and software developers.
 
 ## What do interaction designers do?
 - Create design ideas based on user research
@@ -34,37 +34,37 @@ They work closely with the entire project team, especially service managers, sub
 - **Sitting at the computer**  
 Much of your time will be spent sitting at the computer, designing things. Don’t forget to walk around and talk to your team!
 - **Meetings**  
-There are lots of meetings. Attend as many as you can, this is where decisions are made. Although time consuming and often boring, the strength of agile is the shared understanding between the team. The more you hear, the greater the understanding of the project you will have.
+There are lots of meetings. Attend as many as you can, this is where decisions are made. Although time consuming and often boring, on of the strengths of agile is the shared understanding between the team. The more you hear, the greater the understanding you will have.
 - **Workshops**  
 Workshops are like meetings, but you actually get stuff done. Bring post-its and use whiteboards to analyse research and come up with design ideas.
 - **Daily stand-up**  
 What did you do yesterday? What are you doing today?
 - **Show & Tell**  
-Once a fortnight every project has a presentation where they share their progress on a big screen. Anyone in the organisation is allowed to watch. Be prepared to talk about your work and show a few slides.
+Once a fortnight, every project has a presentation where they share their progress on a big screen. Anyone in the organisation is allowed to watch. Be prepared to talk about your work and show a few slides.
 - **User research**  
 Observe as much user research as you can. Check out this poster for some [basic tips on user research](https://github.com/soniaturcotte/govdesign/blob/b15460d2b002f713baaf19c39ca781825f70516b/Poster_UserResearchTips.pdf).
 
 ## Basic process
 1. **User need is discovered**  
-User needs are uncovered by research. Sometimes business needs are introduced be the internal team too. Make sure business needs match user needs.
+User needs are uncovered by research. Sometimes business needs are introduced be the internal team too. Make sure business needs meet user needs.
 
 2. **Understand the need**  
-Read the research, talk to the subject matter experts. Understand why this thing needs to be added.
+Read the research, talk to the researchers and subject matter experts. Understand why this thing needs to be added.
 
 3. **Has this been solved before?**  
-Speak to the designer team. Speak to the wider government design community. Check the GDS design resources.
+Speak to the design team. Speak to the wider government design community. Check the GDS design resources.
 
 4. **Mock-up some ideas**  
-Design a few ideas quickly, these could be sketched on paper or created in Sketch app. Usually the most simple idea is the best. Remember that many users are inexperienced computer users. They can only complete basic tasks.
+Design a few ideas quickly, these could be sketched on paper or created in Sketch app. Usually the most simple idea is the best. Remember that many users are inexperienced with computers. They can only complete basic tasks.
 
 5. **Prototype**  
-Sometimes a paper prototype is enough to collect research. Sometimes a clickable a html prototype is required.  
+Sometimes a paper prototype is enough to collect research. Sometimes a clickable html prototype is required.  
 
 6. **Usability testing and research**  
 Meet with the user researchers and discuss the prototype and how it functions. If possible, go along and observe the research session.
 
 7. **Repeat**  
-Collect notes from the research session. Then repeat steps 1 to 7.
+Repeat steps 1 to 7.
 
 ## Prototyping in code
 It is difficult to set up the prototype environment first time (unless you are familiar with installing things via the command line). Get some help to setup everything. Once that’s done, you only need a basic knowledge of HTML and CSS (Sass) to get started.
