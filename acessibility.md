@@ -1,15 +1,15 @@
 # Accessibility for designers
 
-A guide to web accessibility best practices for graphic, visual and UI (user interface) designers.
+A guide to web accessibility best practices for designers.
 
 ## Contents
 
-- [Images](#Images)
-- Typography
-- Colour
-- Interaction
-- Forms
-- Content
+- [Images](#images)
+- [Typography](#typography)
+- [Colour](#colour)
+- [Interaction](#interaction)
+- [Forms](#forms)
+- [Content](#content)
 
 ## Images
 
