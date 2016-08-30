@@ -98,7 +98,7 @@ If you absolutely have to use these words then explain them using the `<abbr>` e
 ### Readable page titles and hackable urls
 Page titles should be descriptive and should match the `<h1>` (main heading) on the page. This helps users to orientate themselves.
 
-URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar. For example the url for this page is http://www.benjystanton.co.uk/blog/research-findings-long-term/. A user might expect that if they only enter the last part of the
+URLs should be designed so that users could guess how to navigate their way through a site by editing the website url in the browser address bar.
 
 [Web accessibility & URLs](http://simplyaccessible.com/article/web-accessibility-and-urls/)
 
