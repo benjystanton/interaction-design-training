@@ -37,12 +37,12 @@ Long lines of text are hard to read. So are very short lines. As a rule of thumb
 ### Justified text
 Don’t use fully justified text. Having ragged lines on the right edge helps our eyes to read. Fully justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.
 
-[Never Justify Type on the Web](http://designforhackers.com/blog/never-justify-type-on-the-web/)
+[Never justify type on the Web](http://designforhackers.com/blog/never-justify-type-on-the-web/)
 
 ### Line spacing
 Make sure the vertical white space between lines of text is enough so that the taller letters don’t bump into each other. It’s also possible to have too much space. If you’re eye is drawn the gaps between lines instead of the text itself then you probably need to reduce your line spacing a little.
 
-[Line Spacing](http://practicaltypography.com/line-spacing.html)
+[Line spacing](http://practicaltypography.com/line-spacing.html)
 
 ## Colour
 
@@ -58,7 +58,7 @@ Good displays like those on Macbook Pros have much higher contrast than most mon
 
 Very light text is overused by designers. We rely on it, because contrast can balance a design. But, if you have to add very light text to a design in order for it to feel balanced then you probably have too much stuff on the page.
 
-[Colour Contrast Checker](http://webaim.org/resources/contrastchecker/)
+[Colour contrast checker](http://webaim.org/resources/contrastchecker/)
 
 ## Interaction
 
@@ -78,7 +78,7 @@ Add useful instructions to help users to complete the form. If a certain date fo
 ### Validation errors
 Design errors that are easily understood (this includes writing good content too). Make sure they allow users to navigate to the problem and fix it easily.
 
-[The 10 Commandments of Good Form Design on the Web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
+[The 10 commandments of good form design on the web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
 
 ## Content
 
@@ -98,9 +98,9 @@ If you absolutely have to use these words then explain them using the `<abbr>` e
 ### Readable page titles and hackable urls
 Page titles should be descriptive and should match the `<h1>` (main heading) on the page. This helps users to orientate themselves.
 
-URLs should be designed so that users could guess how to navigate their way through a site by editing the website url in the browser address bar.
+Urls should be designed so that users could guess how to navigate their way through a site by editing the website url in the browser address bar.
 
-[Web accessibility & URLs](http://simplyaccessible.com/article/web-accessibility-and-urls/)
+[Web accessibility & urls](http://simplyaccessible.com/article/web-accessibility-and-urls/)
 
 ### Buttons and links should have descriptive labels
 Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use receptive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.
