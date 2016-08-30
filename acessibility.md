@@ -32,7 +32,7 @@ Images that add meaning to the content need to have alternative text. Imagine yo
 ### Measure
 Long lines of text are hard to read. So are very short lines. As a rule of thumb, I try to keep line length within 45 to 75 characters per line. This is extra tricky when it comes to responsive web design.
 
-Luckily Trent Walton has a [neat trick for managing fluid type](http://trentwalton.com/2012/06/19/fluid-type/).
+[Trent Walton’s trick for managing fluid type](http://trentwalton.com/2012/06/19/fluid-type/)
 
 ### Justified text
 Don’t use fully justified text. Having ragged lines on the right edge helps our eyes to read. Fully justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.
@@ -40,21 +40,21 @@ Don’t use fully justified text. Having ragged lines on the right edge helps ou
 [Never Justify Type on the Web](http://designforhackers.com/blog/never-justify-type-on-the-web/)
 
 ### Line spacing
-Make sure the vertical white space between lines of text is enough so that the taller letters don’t bump into each other. It’s also possible to have too much space. If you’re eye is more drawn the gaps than the text then you probably need to reduce your line spacing a little.
+Make sure the vertical white space between lines of text is enough so that the taller letters don’t bump into each other. It’s also possible to have too much space. If you’re eye is drawn the gaps between lines instead of the text itself then you probably need to reduce your line spacing a little.
 
 [Line Spacing](http://practicaltypography.com/line-spacing.html)
 
 ## Colour
 
 ### Don’t use colour alone to give meaning
-Users who are colour blind can miss out on important information if you don’t consider their needs when designing. For example if you highlight a required form field with a red outline, this could be invisible to them.
+Users who are colour blind can miss out on important information if you don’t consider their needs when designing. For example, if you highlight a required form field with a red outline, this will be invisible to some people.
 
 [Colour accessibility](https://24ways.org/2012/colour-accessibility/)
 
 ### Colour contrast
 Text must have contrast ratio of at least 4.5:1. Larger text doesn’t need as much contrast. A contrast ratio of at least 3:1 is enough for anything over 18 point.
 
-Watch out: good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res PC display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.
+Good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res PC display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.
 
 Very light text is overused by designers. We rely on it, because contrast can balance a design. But, if you have to add very light text to a design in order for it to feel balanced then you probably have too much stuff on the page.
 
@@ -65,7 +65,7 @@ Very light text is overused by designers. We rely on it, because contrast can ba
 ### Design a style for keyboard focus
 Some users will navigate a website using only a keyboard. But often it’s impossible to tell which elements are currently in focus. Be sure to to give links, buttons and form elements a high contrast focus style.
 
-[Tip: go to GOV.UK](https://www.gov.uk/) and press the tab key a few times to see a good example of this in practice.
+[Tip: go to GOV.UK and press the tab key a few times](https://www.gov.uk/) to see a good example of this in practice.
 
 ## Forms
 
