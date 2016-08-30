@@ -91,7 +91,7 @@ Technical terms, abbreviations and jargon can be off putting to all sorts of use
 
 You can help everyone understand your content better if you use common and simple words.
 
-If you absolutely have to use these words then explain them using the `<abbr>` element or by add a glossary.
+If you absolutely have to use these words then explain them using the `<abbr>` element or by adding a glossary.
 
 [Stop your team using technical terms and jargon](http://www.disambiguity.com/stop-your-team-using-technical-terms-and-jargon/)
 
