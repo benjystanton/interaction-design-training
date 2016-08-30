@@ -14,28 +14,28 @@ A guide to web accessibility best practices for designers.
 ## Images
 
 ### Images of text
-Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using HTML and CSS.
+Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using [HTML](http://www.w3schools.com/html/html_intro.asp) and [CSS](http://www.w3schools.com/css/).
 
 In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.
 
 [The big problem with sharing text in images](https://blog.ghost.org/text-images/)
 
-### Images should have alternative text
+### Images should have alt text (alternative text)
 Alt text is one of those web jobs that falls through the cracks. Whose responsibility is it? Designers? Developers? Content editors? I suggest that you do everyone a favour and write alt text for any image that you create or supply.
 
-Images that add meaning to the content need to have alternative text. Imagine you are explaining the image down the phone to someone who can’t see it.
+Images that add meaning to the content need to have alt text. Imagine you are explaining the image down the phone to someone who can’t see it.
 
-[Writing effective ALT text for images](http://www.webcredible.com/blog/writing-effective-alt-text-images/)
+[Writing effective alt text for images](http://www.webcredible.com/blog/writing-effective-alt-text-images/)
 
 ## Typography
 
-### Measure
+### Measure or line length
 Long lines of text are hard to read. So are very short lines. As a rule of thumb, I try to keep line length within 45 to 75 characters per line. This is extra tricky when it comes to responsive web design.
 
-[Trent Walton’s trick for managing fluid type](http://trentwalton.com/2012/06/19/fluid-type/)
+[Trent Walton’s trick for managing line length](http://trentwalton.com/2012/06/19/fluid-type/)
 
 ### Justified text
-Don’t use fully justified text. Having ragged lines on the right edge helps our eyes to read. Fully justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.
+Justified text is when all the lines are stretched to fill the entire width of the column. Like in a newspaper. Don’t use justified text. Having ragged (uneven) lines on the right edge helps our eyes when we read. Justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.
 
 [Never justify type on the Web](http://designforhackers.com/blog/never-justify-type-on-the-web/)
 
@@ -54,7 +54,7 @@ Users who are colour blind can miss out on important information if you don’t 
 ### Colour contrast
 Text must have contrast ratio of at least 4.5:1. Larger text doesn’t need as much contrast. A contrast ratio of at least 3:1 is enough for anything over 18 point.
 
-Good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res PC display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.
+Good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res monitor or display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.
 
 Very light text is overused by designers. We rely on it, because contrast can balance a design. But, if you have to add very light text to a design in order for it to feel balanced then you probably have too much stuff on the page.
 
