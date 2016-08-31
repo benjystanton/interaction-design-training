@@ -77,8 +77,23 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [Google Chrome](https://www.google.com/chrome/)
 - [GitHub account](https://github.com/) for version control and sharing code
 - [Heroku](https://www.heroku.com/) for hosting prototypes
-- [Atom](https://atom.io/) for writing code (other text editors are available)
 - [Google account](https://accounts.google.com/signup) for sharing docs, calendars and more
+- [Atom](https://atom.io/) for writing code (other text editors are available)
+
+#### Recommended Atom plugins:
+- atom-beautify
+- atom-wrap-in-tag
+- autoclose-html
+- autocomplete-paths
+- emmet
+- file-icons
+- highlight-selected
+- linter
+- linter-csslint
+- linter-htmlhint
+- minimap
+- open-recent
+- sync-settings
 
 ### Other tools
 - [Sketch](https://www.sketchapp.com/) for designing mock-ups
