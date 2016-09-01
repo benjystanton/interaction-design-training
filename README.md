@@ -102,7 +102,7 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [Ghostlab](https://www.vanamco.com/ghostlab/) for mirroring prototypes on multiple devices
 - [iA Writer](https://ia.net/writer) the best note taking app out there
 - [GitHub desktop](https://desktop.github.com/)
-- [JIRA](https://www.atlassian.com/software/jira) & [Confluence](https://www.atlassian.com/software/confluence) 😫
+- [JIRA](https://www.atlassian.com/software/jira) & [Confluence](https://www.atlassian.com/software/confluence)
 
 ## Blogs to subscribe to
 - [GDS accessibility](https://accessibility.blog.gov.uk/)
