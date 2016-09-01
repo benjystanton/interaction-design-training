@@ -78,7 +78,7 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [GitHub account](https://github.com/) for version control and sharing code
 - [Heroku](https://www.heroku.com/) for hosting prototypes
 - [Google account](https://accounts.google.com/signup) for sharing docs, calendars and more
-- [Atom](https://atom.io/) for writing code (other text editors are available)
+- [Atom](https://atom.io/) for writing code (other text editors are also available. i.e. [Brackets](http://brackets.io/) ;))
 
 #### Recommended Atom plugins:
 - atom-beautify
@@ -102,7 +102,7 @@ It is difficult to set up the prototype environment first time (unless you are f
 - [Ghostlab](https://www.vanamco.com/ghostlab/) for mirroring prototypes on multiple devices
 - [iA Writer](https://ia.net/writer) the best note taking app out there
 - [GitHub desktop](https://desktop.github.com/)
-- [JIRA](https://www.atlassian.com/software/jira) 😫
+- [JIRA](https://www.atlassian.com/software/jira) & [Confluence](https://www.atlassian.com/software/confluence) 😫
 
 ## Blogs to subscribe to
 - [GDS accessibility](https://accessibility.blog.gov.uk/)
