@@ -39,7 +39,7 @@ There are lots of meetings. Attend as many as you can, this is where decisions a
 Workshops are like meetings, but you actually get stuff done. Bring post-its and use whiteboards to analyse research and come up with design ideas.
 - **Daily stand-up**  
 What did you do yesterday? What are you doing today?
-- **Show & Tell**  
+- **Showcase**  
 Once a fortnight, every project has a presentation where they share their progress on a big screen. Anyone in the organisation is allowed to watch. Be prepared to talk about your work and show a few slides.
 - **User research**  
 Observe as much user research as you can. Check out this poster for some [basic tips on user research](https://github.com/soniaturcotte/govdesign/blob/b15460d2b002f713baaf19c39ca781825f70516b/Poster_UserResearchTips.pdf).
