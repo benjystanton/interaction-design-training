@@ -34,7 +34,7 @@ They work closely with the entire project team, especially service managers, pro
 - **Sitting at the computer**  
 Much of your time will be spent sitting at the computer, designing things. Don’t forget to walk around and talk to your team!
 - **Meetings**  
-There are lots of meetings. Attend as many as you can, this is where decisions are made. Although time consuming and often boring, on of the strengths of agile is the shared understanding between the team. The more you hear, the greater the understanding you will have.
+There are lots of meetings. Attend as many as you can, this is where decisions are made. Although time consuming and often boring, one of the strengths of agile is the shared understanding between the team. The more you hear, the greater the understanding you will have.
 - **Workshops**  
 Workshops are like meetings, but you actually get stuff done. Bring post-its and use whiteboards to analyse research and come up with design ideas.
 - **Daily stand-up**  
