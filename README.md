@@ -26,6 +26,7 @@ They work closely with the entire project team, especially service managers, pro
 - [Design pattern hackpad](https://designpatterns.hackpad.com/)
 - [GOV.UK elements](http://govuk-elements.herokuapp.com/) (front end style guide)
 - [GOV.UK prototype kit](https://github.com/alphagov/govuk_prototype_kit)
+- [GOV.UK prototype kit docs](https://govuk-prototype-kit.herokuapp.com/docs)
 - [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit)
 - Join the GDS Slack team (ask for an invite)
 - Join the GDS email group (ask for an invite)
